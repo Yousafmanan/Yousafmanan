@@ -1,17 +1,5 @@
 # Yousafmanan
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
- <h1 align="center">Hi 👋, I'm Yousaf Manan</h1>
+<h1 align="center">Hi 👋, I'm Yousaf Manan</h1>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
